@@ -1,4 +1,4 @@
-package com.wh2soft.browwser.view.ui.fragment;
+package com.wh2soft.browwser.browser.view.ui.fragment;
 
 import android.content.Context;
 import android.net.Uri;

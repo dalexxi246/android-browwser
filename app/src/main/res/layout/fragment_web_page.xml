@@ -3,4 +3,4 @@
     android:id="@+id/webpage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wh2soft.browwser.view.ui.fragment.WebPageFragment"></WebView>
+    tools:context="com.wh2soft.browwser.browser.view.ui.fragment.WebPageFragment"></WebView>
